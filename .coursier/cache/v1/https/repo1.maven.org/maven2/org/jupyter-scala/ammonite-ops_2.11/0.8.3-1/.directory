@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Central Repository: org/jupyter-scala/ammonite-ops_2.11/0.8.3-1</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+body {
+	background: #fff;
+}
+	</style>
+</head>
+
+<body>
+	<header>
+		<h1>org/jupyter-scala/ammonite-ops_2.11/0.8.3-1</h1>
+	</header>
+	<hr/>
+	<main>
+		<pre id="contents">
+<a href="../">../</a>
+<a href="ammonite-ops_2.11-0.8.3-1-javadoc.jar" title="ammonite-ops_2.11-0.8.3-1-javadoc.jar">ammonite-ops_2.11-0.8.3-1-javadoc.jar</a>             2017-05-09 23:04    714021      
+<a href="ammonite-ops_2.11-0.8.3-1-javadoc.jar.asc" title="ammonite-ops_2.11-0.8.3-1-javadoc.jar.asc">ammonite-ops_2.11-0.8.3-1-javadoc.jar.asc</a>         2017-05-09 23:04       475      
+<a href="ammonite-ops_2.11-0.8.3-1-javadoc.jar.asc.md5" title="ammonite-ops_2.11-0.8.3-1-javadoc.jar.asc.md5">ammonite-ops_2.11-0.8.3-1-javadoc.jar.asc.md5</a>     2017-05-09 23:04        32      
+<a href="ammonite-ops_2.11-0.8.3-1-javadoc.jar.asc.sha1" title="ammonite-ops_2.11-0.8.3-1-javadoc.jar.asc.sha1">ammonite-ops_2.11-0.8.3-1-javadoc.jar.asc.sha...</a>  2017-05-09 23:04        40      
+<a href="ammonite-ops_2.11-0.8.3-1-javadoc.jar.md5" title="ammonite-ops_2.11-0.8.3-1-javadoc.jar.md5">ammonite-ops_2.11-0.8.3-1-javadoc.jar.md5</a>         2017-05-09 23:04        32      
+<a href="ammonite-ops_2.11-0.8.3-1-javadoc.jar.sha1" title="ammonite-ops_2.11-0.8.3-1-javadoc.jar.sha1">ammonite-ops_2.11-0.8.3-1-javadoc.jar.sha1</a>        2017-05-09 23:04        40      
+<a href="ammonite-ops_2.11-0.8.3-1-sources.jar" title="ammonite-ops_2.11-0.8.3-1-sources.jar">ammonite-ops_2.11-0.8.3-1-sources.jar</a>             2017-05-09 23:04     16803      
+<a href="ammonite-ops_2.11-0.8.3-1-sources.jar.asc" title="ammonite-ops_2.11-0.8.3-1-sources.jar.asc">ammonite-ops_2.11-0.8.3-1-sources.jar.asc</a>         2017-05-09 23:04       475      
+<a href="ammonite-ops_2.11-0.8.3-1-sources.jar.asc.md5" title="ammonite-ops_2.11-0.8.3-1-sources.jar.asc.md5">ammonite-ops_2.11-0.8.3-1-sources.jar.asc.md5</a>     2017-05-09 23:04        32      
+<a href="ammonite-ops_2.11-0.8.3-1-sources.jar.asc.sha1" title="ammonite-ops_2.11-0.8.3-1-sources.jar.asc.sha1">ammonite-ops_2.11-0.8.3-1-sources.jar.asc.sha...</a>  2017-05-09 23:04        40      
+<a href="ammonite-ops_2.11-0.8.3-1-sources.jar.md5" title="ammonite-ops_2.11-0.8.3-1-sources.jar.md5">ammonite-ops_2.11-0.8.3-1-sources.jar.md5</a>         2017-05-09 23:04        32      
+<a href="ammonite-ops_2.11-0.8.3-1-sources.jar.sha1" title="ammonite-ops_2.11-0.8.3-1-sources.jar.sha1">ammonite-ops_2.11-0.8.3-1-sources.jar.sha1</a>        2017-05-09 23:04        40      
+<a href="ammonite-ops_2.11-0.8.3-1.jar" title="ammonite-ops_2.11-0.8.3-1.jar">ammonite-ops_2.11-0.8.3-1.jar</a>                     2017-05-09 23:04    310682      
+<a href="ammonite-ops_2.11-0.8.3-1.jar.asc" title="ammonite-ops_2.11-0.8.3-1.jar.asc">ammonite-ops_2.11-0.8.3-1.jar.asc</a>                 2017-05-09 23:04       475      
+<a href="ammonite-ops_2.11-0.8.3-1.jar.asc.md5" title="ammonite-ops_2.11-0.8.3-1.jar.asc.md5">ammonite-ops_2.11-0.8.3-1.jar.asc.md5</a>             2017-05-09 23:04        32      
+<a href="ammonite-ops_2.11-0.8.3-1.jar.asc.sha1" title="ammonite-ops_2.11-0.8.3-1.jar.asc.sha1">ammonite-ops_2.11-0.8.3-1.jar.asc.sha1</a>            2017-05-09 23:04        40      
+<a href="ammonite-ops_2.11-0.8.3-1.jar.md5" title="ammonite-ops_2.11-0.8.3-1.jar.md5">ammonite-ops_2.11-0.8.3-1.jar.md5</a>                 2017-05-09 23:04        32      
+<a href="ammonite-ops_2.11-0.8.3-1.jar.sha1" title="ammonite-ops_2.11-0.8.3-1.jar.sha1">ammonite-ops_2.11-0.8.3-1.jar.sha1</a>                2017-05-09 23:04        40      
+<a href="ammonite-ops_2.11-0.8.3-1.pom" title="ammonite-ops_2.11-0.8.3-1.pom">ammonite-ops_2.11-0.8.3-1.pom</a>                     2017-05-09 23:04      2020      
+<a href="ammonite-ops_2.11-0.8.3-1.pom.asc" title="ammonite-ops_2.11-0.8.3-1.pom.asc">ammonite-ops_2.11-0.8.3-1.pom.asc</a>                 2017-05-09 23:04       475      
+<a href="ammonite-ops_2.11-0.8.3-1.pom.asc.md5" title="ammonite-ops_2.11-0.8.3-1.pom.asc.md5">ammonite-ops_2.11-0.8.3-1.pom.asc.md5</a>             2017-05-09 23:04        32      
+<a href="ammonite-ops_2.11-0.8.3-1.pom.asc.sha1" title="ammonite-ops_2.11-0.8.3-1.pom.asc.sha1">ammonite-ops_2.11-0.8.3-1.pom.asc.sha1</a>            2017-05-09 23:04        40      
+<a href="ammonite-ops_2.11-0.8.3-1.pom.md5" title="ammonite-ops_2.11-0.8.3-1.pom.md5">ammonite-ops_2.11-0.8.3-1.pom.md5</a>                 2017-05-09 23:04        32      
+<a href="ammonite-ops_2.11-0.8.3-1.pom.sha1" title="ammonite-ops_2.11-0.8.3-1.pom.sha1">ammonite-ops_2.11-0.8.3-1.pom.sha1</a>                2017-05-09 23:04        40      
+		</pre>
+	</main>
+	<hr/>
+</body>
+
+</html>

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Central Repository: org/jupyter-scala/kernel-protocol_2.11/0.4.1</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+body {
+	background: #fff;
+}
+	</style>
+</head>
+
+<body>
+	<header>
+		<h1>org/jupyter-scala/kernel-protocol_2.11/0.4.1</h1>
+	</header>
+	<hr/>
+	<main>
+		<pre id="contents">
+<a href="../">../</a>
+<a href="kernel-protocol_2.11-0.4.1-javadoc.jar" title="kernel-protocol_2.11-0.4.1-javadoc.jar">kernel-protocol_2.11-0.4.1-javadoc.jar</a>            2017-04-29 19:24    658149      
+<a href="kernel-protocol_2.11-0.4.1-javadoc.jar.asc" title="kernel-protocol_2.11-0.4.1-javadoc.jar.asc">kernel-protocol_2.11-0.4.1-javadoc.jar.asc</a>        2017-04-29 19:24       475      
+<a href="kernel-protocol_2.11-0.4.1-javadoc.jar.asc.md5" title="kernel-protocol_2.11-0.4.1-javadoc.jar.asc.md5">kernel-protocol_2.11-0.4.1-javadoc.jar.asc.md...</a>  2017-04-29 19:24        32      
+<a href="kernel-protocol_2.11-0.4.1-javadoc.jar.asc.sha1" title="kernel-protocol_2.11-0.4.1-javadoc.jar.asc.sha1">kernel-protocol_2.11-0.4.1-javadoc.jar.asc.sh...</a>  2017-04-29 19:24        40      
+<a href="kernel-protocol_2.11-0.4.1-javadoc.jar.md5" title="kernel-protocol_2.11-0.4.1-javadoc.jar.md5">kernel-protocol_2.11-0.4.1-javadoc.jar.md5</a>        2017-04-29 19:24        32      
+<a href="kernel-protocol_2.11-0.4.1-javadoc.jar.sha1" title="kernel-protocol_2.11-0.4.1-javadoc.jar.sha1">kernel-protocol_2.11-0.4.1-javadoc.jar.sha1</a>       2017-04-29 19:24        40      
+<a href="kernel-protocol_2.11-0.4.1-sources.jar" title="kernel-protocol_2.11-0.4.1-sources.jar">kernel-protocol_2.11-0.4.1-sources.jar</a>            2017-04-29 19:24      6340      
+<a href="kernel-protocol_2.11-0.4.1-sources.jar.asc" title="kernel-protocol_2.11-0.4.1-sources.jar.asc">kernel-protocol_2.11-0.4.1-sources.jar.asc</a>        2017-04-29 19:24       475      
+<a href="kernel-protocol_2.11-0.4.1-sources.jar.asc.md5" title="kernel-protocol_2.11-0.4.1-sources.jar.asc.md5">kernel-protocol_2.11-0.4.1-sources.jar.asc.md...</a>  2017-04-29 19:24        32      
+<a href="kernel-protocol_2.11-0.4.1-sources.jar.asc.sha1" title="kernel-protocol_2.11-0.4.1-sources.jar.asc.sha1">kernel-protocol_2.11-0.4.1-sources.jar.asc.sh...</a>  2017-04-29 19:24        40      
+<a href="kernel-protocol_2.11-0.4.1-sources.jar.md5" title="kernel-protocol_2.11-0.4.1-sources.jar.md5">kernel-protocol_2.11-0.4.1-sources.jar.md5</a>        2017-04-29 19:24        32      
+<a href="kernel-protocol_2.11-0.4.1-sources.jar.sha1" title="kernel-protocol_2.11-0.4.1-sources.jar.sha1">kernel-protocol_2.11-0.4.1-sources.jar.sha1</a>       2017-04-29 19:24        40      
+<a href="kernel-protocol_2.11-0.4.1.jar" title="kernel-protocol_2.11-0.4.1.jar">kernel-protocol_2.11-0.4.1.jar</a>                    2017-04-29 19:24    181013      
+<a href="kernel-protocol_2.11-0.4.1.jar.asc" title="kernel-protocol_2.11-0.4.1.jar.asc">kernel-protocol_2.11-0.4.1.jar.asc</a>                2017-04-29 19:24       475      
+<a href="kernel-protocol_2.11-0.4.1.jar.asc.md5" title="kernel-protocol_2.11-0.4.1.jar.asc.md5">kernel-protocol_2.11-0.4.1.jar.asc.md5</a>            2017-04-29 19:24        32      
+<a href="kernel-protocol_2.11-0.4.1.jar.asc.sha1" title="kernel-protocol_2.11-0.4.1.jar.asc.sha1">kernel-protocol_2.11-0.4.1.jar.asc.sha1</a>           2017-04-29 19:24        40      
+<a href="kernel-protocol_2.11-0.4.1.jar.md5" title="kernel-protocol_2.11-0.4.1.jar.md5">kernel-protocol_2.11-0.4.1.jar.md5</a>                2017-04-29 19:24        32      
+<a href="kernel-protocol_2.11-0.4.1.jar.sha1" title="kernel-protocol_2.11-0.4.1.jar.sha1">kernel-protocol_2.11-0.4.1.jar.sha1</a>               2017-04-29 19:24        40      
+<a href="kernel-protocol_2.11-0.4.1.pom" title="kernel-protocol_2.11-0.4.1.pom">kernel-protocol_2.11-0.4.1.pom</a>                    2017-04-29 19:24      2231      
+<a href="kernel-protocol_2.11-0.4.1.pom.asc" title="kernel-protocol_2.11-0.4.1.pom.asc">kernel-protocol_2.11-0.4.1.pom.asc</a>                2017-04-29 19:24       475      
+<a href="kernel-protocol_2.11-0.4.1.pom.asc.md5" title="kernel-protocol_2.11-0.4.1.pom.asc.md5">kernel-protocol_2.11-0.4.1.pom.asc.md5</a>            2017-04-29 19:24        32      
+<a href="kernel-protocol_2.11-0.4.1.pom.asc.sha1" title="kernel-protocol_2.11-0.4.1.pom.asc.sha1">kernel-protocol_2.11-0.4.1.pom.asc.sha1</a>           2017-04-29 19:24        40      
+<a href="kernel-protocol_2.11-0.4.1.pom.md5" title="kernel-protocol_2.11-0.4.1.pom.md5">kernel-protocol_2.11-0.4.1.pom.md5</a>                2017-04-29 19:24        32      
+<a href="kernel-protocol_2.11-0.4.1.pom.sha1" title="kernel-protocol_2.11-0.4.1.pom.sha1">kernel-protocol_2.11-0.4.1.pom.sha1</a>               2017-04-29 19:24        40      
+		</pre>
+	</main>
+	<hr/>
+</body>
+
+</html>

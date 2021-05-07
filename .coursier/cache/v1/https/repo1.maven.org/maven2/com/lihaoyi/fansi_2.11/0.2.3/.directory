@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Central Repository: com/lihaoyi/fansi_2.11/0.2.3</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+body {
+	background: #fff;
+}
+	</style>
+</head>
+
+<body>
+	<header>
+		<h1>com/lihaoyi/fansi_2.11/0.2.3</h1>
+	</header>
+	<hr/>
+	<main>
+		<pre id="contents">
+<a href="../">../</a>
+<a href="fansi_2.11-0.2.3-javadoc.jar" title="fansi_2.11-0.2.3-javadoc.jar">fansi_2.11-0.2.3-javadoc.jar</a>                      2016-11-02 23:40    431196      
+<a href="fansi_2.11-0.2.3-javadoc.jar.asc" title="fansi_2.11-0.2.3-javadoc.jar.asc">fansi_2.11-0.2.3-javadoc.jar.asc</a>                  2016-11-02 23:40       475      
+<a href="fansi_2.11-0.2.3-javadoc.jar.asc.md5" title="fansi_2.11-0.2.3-javadoc.jar.asc.md5">fansi_2.11-0.2.3-javadoc.jar.asc.md5</a>              2016-11-02 23:40        32      
+<a href="fansi_2.11-0.2.3-javadoc.jar.asc.sha1" title="fansi_2.11-0.2.3-javadoc.jar.asc.sha1">fansi_2.11-0.2.3-javadoc.jar.asc.sha1</a>             2016-11-02 23:40        40      
+<a href="fansi_2.11-0.2.3-javadoc.jar.md5" title="fansi_2.11-0.2.3-javadoc.jar.md5">fansi_2.11-0.2.3-javadoc.jar.md5</a>                  2016-11-02 23:40        32      
+<a href="fansi_2.11-0.2.3-javadoc.jar.sha1" title="fansi_2.11-0.2.3-javadoc.jar.sha1">fansi_2.11-0.2.3-javadoc.jar.sha1</a>                 2016-11-02 23:40        40      
+<a href="fansi_2.11-0.2.3-sources.jar" title="fansi_2.11-0.2.3-sources.jar">fansi_2.11-0.2.3-sources.jar</a>                      2016-11-02 23:40      9245      
+<a href="fansi_2.11-0.2.3-sources.jar.asc" title="fansi_2.11-0.2.3-sources.jar.asc">fansi_2.11-0.2.3-sources.jar.asc</a>                  2016-11-02 23:40       475      
+<a href="fansi_2.11-0.2.3-sources.jar.asc.md5" title="fansi_2.11-0.2.3-sources.jar.asc.md5">fansi_2.11-0.2.3-sources.jar.asc.md5</a>              2016-11-02 23:40        32      
+<a href="fansi_2.11-0.2.3-sources.jar.asc.sha1" title="fansi_2.11-0.2.3-sources.jar.asc.sha1">fansi_2.11-0.2.3-sources.jar.asc.sha1</a>             2016-11-02 23:40        40      
+<a href="fansi_2.11-0.2.3-sources.jar.md5" title="fansi_2.11-0.2.3-sources.jar.md5">fansi_2.11-0.2.3-sources.jar.md5</a>                  2016-11-02 23:40        32      
+<a href="fansi_2.11-0.2.3-sources.jar.sha1" title="fansi_2.11-0.2.3-sources.jar.sha1">fansi_2.11-0.2.3-sources.jar.sha1</a>                 2016-11-02 23:40        40      
+<a href="fansi_2.11-0.2.3.jar" title="fansi_2.11-0.2.3.jar">fansi_2.11-0.2.3.jar</a>                              2016-11-02 23:40     81315      
+<a href="fansi_2.11-0.2.3.jar.asc" title="fansi_2.11-0.2.3.jar.asc">fansi_2.11-0.2.3.jar.asc</a>                          2016-11-02 23:40       475      
+<a href="fansi_2.11-0.2.3.jar.asc.md5" title="fansi_2.11-0.2.3.jar.asc.md5">fansi_2.11-0.2.3.jar.asc.md5</a>                      2016-11-02 23:40        32      
+<a href="fansi_2.11-0.2.3.jar.asc.sha1" title="fansi_2.11-0.2.3.jar.asc.sha1">fansi_2.11-0.2.3.jar.asc.sha1</a>                     2016-11-02 23:40        40      
+<a href="fansi_2.11-0.2.3.jar.md5" title="fansi_2.11-0.2.3.jar.md5">fansi_2.11-0.2.3.jar.md5</a>                          2016-11-02 23:40        32      
+<a href="fansi_2.11-0.2.3.jar.sha1" title="fansi_2.11-0.2.3.jar.sha1">fansi_2.11-0.2.3.jar.sha1</a>                         2016-11-02 23:40        40      
+<a href="fansi_2.11-0.2.3.pom" title="fansi_2.11-0.2.3.pom">fansi_2.11-0.2.3.pom</a>                              2016-11-02 23:40      1719      
+<a href="fansi_2.11-0.2.3.pom.asc" title="fansi_2.11-0.2.3.pom.asc">fansi_2.11-0.2.3.pom.asc</a>                          2016-11-02 23:40       475      
+<a href="fansi_2.11-0.2.3.pom.asc.md5" title="fansi_2.11-0.2.3.pom.asc.md5">fansi_2.11-0.2.3.pom.asc.md5</a>                      2016-11-02 23:40        32      
+<a href="fansi_2.11-0.2.3.pom.asc.sha1" title="fansi_2.11-0.2.3.pom.asc.sha1">fansi_2.11-0.2.3.pom.asc.sha1</a>                     2016-11-02 23:40        40      
+<a href="fansi_2.11-0.2.3.pom.md5" title="fansi_2.11-0.2.3.pom.md5">fansi_2.11-0.2.3.pom.md5</a>                          2016-11-02 23:40        32      
+<a href="fansi_2.11-0.2.3.pom.sha1" title="fansi_2.11-0.2.3.pom.sha1">fansi_2.11-0.2.3.pom.sha1</a>                         2016-11-02 23:40        40      
+		</pre>
+	</main>
+	<hr/>
+</body>
+
+</html>

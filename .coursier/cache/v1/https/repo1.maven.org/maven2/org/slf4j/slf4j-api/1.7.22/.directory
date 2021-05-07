@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Central Repository: org/slf4j/slf4j-api/1.7.22</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+body {
+	background: #fff;
+}
+	</style>
+</head>
+
+<body>
+	<header>
+		<h1>org/slf4j/slf4j-api/1.7.22</h1>
+	</header>
+	<hr/>
+	<main>
+		<pre id="contents">
+<a href="../">../</a>
+<a href="slf4j-api-1.7.22-javadoc.jar" title="slf4j-api-1.7.22-javadoc.jar">slf4j-api-1.7.22-javadoc.jar</a>                      2016-12-13 17:05    248685      
+<a href="slf4j-api-1.7.22-javadoc.jar.asc" title="slf4j-api-1.7.22-javadoc.jar.asc">slf4j-api-1.7.22-javadoc.jar.asc</a>                  2016-12-13 17:05       455      
+<a href="slf4j-api-1.7.22-javadoc.jar.md5" title="slf4j-api-1.7.22-javadoc.jar.md5">slf4j-api-1.7.22-javadoc.jar.md5</a>                  2016-12-13 17:05        32      
+<a href="slf4j-api-1.7.22-javadoc.jar.sha1" title="slf4j-api-1.7.22-javadoc.jar.sha1">slf4j-api-1.7.22-javadoc.jar.sha1</a>                 2016-12-13 17:05        40      
+<a href="slf4j-api-1.7.22-sources.jar" title="slf4j-api-1.7.22-sources.jar">slf4j-api-1.7.22-sources.jar</a>                      2016-12-13 17:05     55650      
+<a href="slf4j-api-1.7.22-sources.jar.asc" title="slf4j-api-1.7.22-sources.jar.asc">slf4j-api-1.7.22-sources.jar.asc</a>                  2016-12-13 17:05       455      
+<a href="slf4j-api-1.7.22-sources.jar.md5" title="slf4j-api-1.7.22-sources.jar.md5">slf4j-api-1.7.22-sources.jar.md5</a>                  2016-12-13 17:05        32      
+<a href="slf4j-api-1.7.22-sources.jar.sha1" title="slf4j-api-1.7.22-sources.jar.sha1">slf4j-api-1.7.22-sources.jar.sha1</a>                 2016-12-13 17:05        40      
+<a href="slf4j-api-1.7.22-tests.jar" title="slf4j-api-1.7.22-tests.jar">slf4j-api-1.7.22-tests.jar</a>                        2016-12-13 17:05     32341      
+<a href="slf4j-api-1.7.22-tests.jar.asc" title="slf4j-api-1.7.22-tests.jar.asc">slf4j-api-1.7.22-tests.jar.asc</a>                    2016-12-13 17:05       455      
+<a href="slf4j-api-1.7.22-tests.jar.md5" title="slf4j-api-1.7.22-tests.jar.md5">slf4j-api-1.7.22-tests.jar.md5</a>                    2016-12-13 17:05        32      
+<a href="slf4j-api-1.7.22-tests.jar.sha1" title="slf4j-api-1.7.22-tests.jar.sha1">slf4j-api-1.7.22-tests.jar.sha1</a>                   2016-12-13 17:05        40      
+<a href="slf4j-api-1.7.22.jar" title="slf4j-api-1.7.22.jar">slf4j-api-1.7.22.jar</a>                              2016-12-13 17:05     41077      
+<a href="slf4j-api-1.7.22.jar.asc" title="slf4j-api-1.7.22.jar.asc">slf4j-api-1.7.22.jar.asc</a>                          2016-12-13 17:05       455      
+<a href="slf4j-api-1.7.22.jar.md5" title="slf4j-api-1.7.22.jar.md5">slf4j-api-1.7.22.jar.md5</a>                          2016-12-13 17:05        32      
+<a href="slf4j-api-1.7.22.jar.sha1" title="slf4j-api-1.7.22.jar.sha1">slf4j-api-1.7.22.jar.sha1</a>                         2016-12-13 17:05        40      
+<a href="slf4j-api-1.7.22.pom" title="slf4j-api-1.7.22.pom">slf4j-api-1.7.22.pom</a>                              2016-12-13 17:05      2775      
+<a href="slf4j-api-1.7.22.pom.asc" title="slf4j-api-1.7.22.pom.asc">slf4j-api-1.7.22.pom.asc</a>                          2016-12-13 17:05       455      
+<a href="slf4j-api-1.7.22.pom.md5" title="slf4j-api-1.7.22.pom.md5">slf4j-api-1.7.22.pom.md5</a>                          2016-12-13 17:05        32      
+<a href="slf4j-api-1.7.22.pom.sha1" title="slf4j-api-1.7.22.pom.sha1">slf4j-api-1.7.22.pom.sha1</a>                         2016-12-13 17:05        40      
+		</pre>
+	</main>
+	<hr/>
+</body>
+
+</html>
